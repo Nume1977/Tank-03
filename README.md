@@ -2,7 +2,7 @@
 
 This repository was created to gather all information about the Tank 03 Mini PC sold by Acemagic and Chatreey.
 
-## The Specs
+### The Specs {#specs}
 
 The physical size is 17x17x17 cm (WxLxH)
 
@@ -44,7 +44,7 @@ But there is a way to reset it :) !
 
 * Please remember first boots take a long time (in one case it tooks 3 minutes!), do not power off the device for at least 5 minutes.*
 
-BIOS RESET PROCEDURE
+__BIOS RESET PROCEDURE:__
 
 1. Power off device, remove mains plug.
 2. Open device top lid
@@ -56,5 +56,8 @@ BIOS RESET PROCEDURE
 8. Close lid and repeat step 4 (with faster boot now)
    
 The bios will reset to default and after that the battery can be reconnected.
+
+
+![CPU](/Images/battery.jpg)
 
 
