@@ -2,7 +2,11 @@
 
 This repository was created to gather all information about the Tank 03 Mini PC sold by Acemagic and Chatreey.
 
-### The Specs {#specs}
+1. [Specs](#specs)
+2. [How to open](#open)
+
+
+## <a href="#specs" id="specs">Specs</a>
 
 The physical size is 17x17x17 cm (WxLxH)
 
@@ -23,8 +27,7 @@ It has 2x M2 2280 for Nvme or SSD + 1x M2 2230 (used by the Wifi Card).
 (more to be added later)
 
 
-
-## How to open
+## <a href="#open" id="open">How to open</a>
 
 The cube has 8 screws hidden under the triangle pads on each of it's corner.  
 Simply remove the pads and unscrew.
