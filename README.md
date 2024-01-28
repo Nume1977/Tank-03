@@ -7,7 +7,7 @@ This repository was created to gather all information about the Tank 03 Mini PC 
 The physical size is 17x17x17 cm (WxLxH)
 
 This Mini PC comes in 2 CPU flavours, the Intel i7 12700H and the i9 12900H both sporting 14 cores / 20 threads (6 Performance + 8 Efficient cores) at 45W TDP.
-![CPU](/images/cpu_i12700h.png")
+![CPU](/Images/cpu_i12700h.png")
 
 Graphic's card wise, all models come with Intel® Iris® Xe Graphics thanks to the Intel CPU and a second notebook graphic card from Nvidia, in 3 different models: RTX3050 (?) / RTX3070 (115W - Code Name: GA 104) / RTX3080 (?)
 
