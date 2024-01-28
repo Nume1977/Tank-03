@@ -27,8 +27,34 @@ It has 2x M2 2280 for Nvme or SSD + 1x M2 2230 (used by the Wifi Card).
 ## How to open
 
 The cube has 8 screws hidden under the triangle pads on each of it's corner.  
-Simply remove the pads and unscrew. The top lid has the wifi antennas attached to it, so be careful!.
+Simply remove the pads and unscrew.
+
+![CPU](/Images/screws.jpg)
+
+The top lid has the wifi antennas attached to it, so be careful!.
+
+![CPU](/Images/wifi.jpg)
+
 
 ## How to reset bios
 
-Some options 
+If you are like me and scr€wed the bios into a unbootable state, you will find out there is no bios reset button or power up sequence that erases back to default.
+
+But there is a way to reset it :) !  
+
+* Please remember first boots take a long time (in one case it tooks 3 minutes!), do not power off the device for at least 5 minutes.*
+
+BIOS RESET PROCEDURE
+
+1. Power off device, remove mains plug.
+2. Open device top lid
+3. Disconnect the built in clock battery using a long screw driver
+4. Insert mains plug, power device on, and wait (really wait a few minutes)
+5. Bios should be back to default.
+6. Power off device again, remove mains plug
+7. Reconnect the battery plug into position with the long screw driver
+8. Close lid and repeat step 4 (with faster boot now)
+   
+The bios will reset to default and after that the battery can be reconnected.
+
+
