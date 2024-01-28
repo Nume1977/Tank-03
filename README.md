@@ -8,7 +8,7 @@ This repository was created to gather all information about the Tank 03 Mini PC 
 2. [How to open the device](#open)
 3. [How to reset bios](#bios)
 4. [Drivers](#drivers)
-5. [Drivers Help Us](#drivershelpus)
+5. [Drivers Help Us](#drivershelp)
 
 ## <a href="#specs" id="specs">Specs</a>
 
