@@ -8,7 +8,7 @@ This repository was created to gather all information about the Tank 03 Mini PC 
 2. [How to open the device](#open)
 3. [How to reset bios](#bios)
 4. [Drivers](#drivers)
-5. [Drivers Help Us](#drivershelp)
+5. [Drivers - Help Us](#drivershelp)
 
 ## <a href="#specs" id="specs">Specs</a>
 
@@ -83,7 +83,7 @@ The "official" (Acemagic/Chatreey) installer works by inserting into the windows
 Help is needed to be able to patch drivers for this machine, so end users don't need to wait for the manufacturer to build them.
 
 
-## <a href="#drivershelp" id="drivershelp">Drivers Help Us</a>
+## <a href="#drivershelp" id="drivershelp">Drivers - Help Us</a>
 
 The drivers where sent to me by Chatreey, they work, but I am not able to get any sound from the Audio jack plugs!
 
