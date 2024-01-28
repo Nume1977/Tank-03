@@ -70,6 +70,8 @@ Battery plug location, viewed from the top.
 
 ## <a href="#drivers" id="drivers">Drivers</a>
 
+Drivers size is too big for Github, please retrieve them from [MEGA (Size: 820Mb)](https://mega.nz/folder/db9yiAJD#0lUH8jqL39iFSJFptN68GA)
+
 This device uses Intel/Realtek standard drivers, the only exception is the Nvidia Driver, that is a patched version of the standard notebook driver to recognize the graphic card, because it has 16Gb of VRam.
 
 After inspection of the patched drivers I realized the video cards where added via new file called nvqyltc.inf that is inside the Display.Driver directory, and the DisplayDriver.nvi file was edited to include this new inf, also quite a few inf files where removed by the manufacturer.
@@ -83,7 +85,7 @@ Help is needed to be able to patch drivers for this machine, so end users don't 
 
 ## <a href="#drivershelp" id="drivershelp">Drivers Help Us</a>
 
-The drivers in the Drivers directory where sent to me by Chatreey, they work, but I am not able to get any sound from the Audio jack plugs!
+The drivers where sent to me by Chatreey, they work, but I am not able to get any sound from the Audio jack plugs!
 
 Help is needed to retrieve all drivers from a genuine Tank 03, that is running the original Windows system that comes installed.
 
