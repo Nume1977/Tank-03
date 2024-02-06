@@ -6,9 +6,10 @@ This repository was created to gather all information about the Tank 03 Mini PC 
 
 1. [Specs](#specs)
 2. [How to open the device](#open)
-3. [How to reset bios](#bios)
-4. [Drivers](#drivers)
-5. [Drivers - Help Us](#drivershelp)
+3. [More pictures](#pics)
+4. [How to reset bios](#bios)
+5. [Drivers](#drivers)
+6. [Drivers - Help Us](#drivershelp)
 
 ## <a href="#specs" id="specs">Specs</a>
 
@@ -45,6 +46,23 @@ The top lid has the wifi antennas attached to it, so be careful!.
 Unscrew all 4 standoffs, and remove the metal bracket that covers the GPU cooler. The side walls of the cube will be released, giving access to the interior.
 
 ![CPU](/Images/standoff.jpg)
+
+## <a href="#pics" id="pics">More pics</a>
+
+GPU 80mm cooler fan, front view (behind the job dial).
+
+![CPU](/Images/gpu_cooler.jpg)
+
+PCIE GPU Slot, possible room for updates by replacing the graphics card?
+
+![CPU](/Images/pcie_gpuslot.jpg)
+
+
+The 3 M2 slots and the board revision
+
+![CPU](/Images/m2.jpg)  
+  
+
 
 ## <a href="#bios" id="bios">How to reset bios</a>
 
