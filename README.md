@@ -39,7 +39,7 @@ Simply remove the pads and unscrew.
 
 ![CPU](/Images/screws.jpg)
 
-The top lid has the wifi antennas attached to it, so be careful!.
+The top lid has the wifi/BT antennas attached to it, so be careful when pulling it!.
 
 ![CPU](/Images/wifi.jpg)
 
@@ -49,11 +49,11 @@ Unscrew all 4 standoffs, and remove the metal bracket that covers the GPU cooler
 
 ## <a href="#pics" id="pics">More pics</a>
 
-GPU 80mm cooler fan, front view (behind the job dial).
+GPU 80mm cooler fan, front view (behind the dial).
 
 ![CPU](/Images/gpu_cooler.jpg)
 
-PCie GPU Slot, possible room for updates by replacing the graphics card?
+PCie GPU Slot (possible room for updates by replacing the graphics card?)
 
 ![CPU](/Images/pcie_gpuslot.jpg)
 
