@@ -53,10 +53,9 @@ GPU 80mm cooler fan, front view (behind the job dial).
 
 ![CPU](/Images/gpu_cooler.jpg)
 
-PCIE GPU Slot, possible room for updates by replacing the graphics card?
+PCie GPU Slot, possible room for updates by replacing the graphics card?
 
 ![CPU](/Images/pcie_gpuslot.jpg)
-
 
 The 3 M2 slots and the board revision
 
@@ -75,15 +74,15 @@ But there is a way to reset it :) !
 __BIOS RESET PROCEDURE:__
 
 1. Power off device, remove mains plug.
-2. Open device top lid
-3. Disconnect the built in clock battery using a long screw driver
+2. Open device top lid and unscrew the standoff to remove the bracked that holds the side walls.
+3. Disconnect the built in clock battery using a screw driver
 4. Insert mains plug, power device on, and wait (really wait a few minutes)
 5. Bios should be back to default.
 6. Power off device again, remove mains plug
-7. Reconnect the battery plug into position with the long screw driver
+7. Reconnect the battery plug into position
 8. Close lid and repeat step 4 (with faster boot now)
 
-Battery plug location, viewed from the top.
+Battery plug location, viewed from the top (battery is a yellow component taped inside the front panel.
 
 
 ![CPU](/Images/battery.jpg)
