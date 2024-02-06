@@ -42,6 +42,9 @@ The top lid has the wifi antennas attached to it, so be careful!.
 
 ![CPU](/Images/wifi.jpg)
 
+Unscrew all 4 standoffs, and the side walls of the cube will be released, giving access to the interior.
+
+![CPU](/Images/standoff.jpg)
 
 ## <a href="#bios" id="bios">How to reset bios</a>
 
