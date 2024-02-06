@@ -102,7 +102,7 @@ The "official" (Acemagic/Chatreey) installer works by inserting into the windows
 
 Help is needed to be able to patch drivers for this machine, so end users don't need to wait for the manufacturer to build them.
 
-I have not tested [FrankenDriver](https://github.com/arutar/FrankenDriver), but it might work.
+I have have tested [FrankenDriver](https://github.com/arutar/FrankenDriver), and these drivers seem to work.
 
 ## <a href="#drivershelp" id="drivershelp">Drivers - Help Us</a>
 
