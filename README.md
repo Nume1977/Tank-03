@@ -8,8 +8,7 @@ This repository was created to gather all information about the Tank 03 Mini PC 
 2. [How to open the device](#open)
 3. [More pictures](#pics)
 4. [How to reset bios](#bios)
-5. [Drivers](#drivers)
-6. [Drivers - Help Us](#drivershelp)
+5. [Drivers / Bios Warning](#drivers)
 
 ## <a href="#specs" id="specs">Specs</a>
 
@@ -90,37 +89,16 @@ Battery plug location, viewed from the top (battery is a yellow component taped 
 
 ## <a href="#drivers" id="drivers">Drivers</a>
 
-Drivers size is too big for Github, please retrieve them from [MEGA (Size: 820Mb)](https://mega.nz/folder/db9yiAJD#0lUH8jqL39iFSJFptN68GA)
+Manufacturer tutorials and drivers (more recent than mine): https://www.chatreey.com/support/tank-model-mini-pc-drivers/
 
-This device uses Intel/Realtek standard drivers, the only exception is the Nvidia Driver, that is a patched version of the standard notebook driver to recognize the graphic card, because it has 16Gb of VRam.
+CUSTOM NVIDIA DRIVERS for Chinese NVIDIA LAPTOP CARDS, always up-to-date (1 or 2 versions behind latest nvidia): [FrankenDriver](https://github.com/arutar/FrankenDriver)
 
-After inspection of the patched drivers I realized the video cards where added via new file called nvqyltc.inf that is inside the Display.Driver directory, and the DisplayDriver.nvi file was edited to include this new inf, also quite a few inf files where removed by the manufacturer.
+Drivers collected by me in 2023 (size is too big for Github), please retrieve them from: [MEGA (Size: 820Mb)](https://mega.nz/folder/db9yiAJD#0lUH8jqL39iFSJFptN68GA)
 
-I managed to replicate this procedure using the latest (at this time) 546.65 drivers and [NVIDIA-Patcher](https://github.com/dartraiden/NVIDIA-patcher) to create a signed nv_display.cat. But the installer fails when updating the driver. I got stuck at this point, because i don't know how to get some kind of debug info from the Nvidia installer, on why it failed.
 
-The "official" (Acemagic/Chatreey) installer works by inserting into the windows registry a key (Hcert.cfg) to validate the Certificate that was used to sign the nv_disp.cat file, that is why the driver displays as "Beta". NVIDIA-Patcher uses a similar approach to insert the self-signed certificate on the trusted certificates list.
+## WARNING ##
 
-Help is needed to be able to patch drivers for this machine, so end users don't need to wait for the manufacturer to build them.
+Flashing a new bios, will make windows deactivated after reboot, the "I changed my hardware" option will not work. 
 
-I have have tested [FrankenDriver](https://github.com/arutar/FrankenDriver), and these drivers seem to work.
-
-## <a href="#drivershelp" id="drivershelp">Drivers - Help Us</a>
-
-The drivers where sent to me by Chatreey, they work, but I am not able to get any sound from the Audio jack plugs!
-
-Help is needed to retrieve all drivers from a genuine Tank 03, that is running the original Windows system that comes installed.
-
-The procedure to retrieve the driver is simple, open a command line (powershell) in Administration mode and run the following command:
-
-`Export-WindowsDriver -Online -Destination "full path of folder where the drivers copy go`
-
-Example:
-`Export-WindowsDriver -Online -Destination "c:\drivers-backup\`
-
-It should export around 200mb of drivers.
-
-Please compress the exported drivers folder, upload it somewhere and open a issue with the link.
-
-I will later download and add them to this repository!
-
+Only solution that worked for me was to reinstall Windows 11!
 
