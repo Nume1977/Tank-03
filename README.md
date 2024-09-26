@@ -9,6 +9,7 @@ This repository was created to gather all information about the Tank 03 Mini PC 
 3. [More pictures](#pics)
 4. [How to reset bios](#bios)
 5. [Drivers / Bios Warning](#drivers)
+6. [One year later](#later)
 
 ## <a href="#specs" id="specs">Specs</a>
 
@@ -61,7 +62,6 @@ The 3 M2 slots and the board revision
 ![CPU](/Images/m2.jpg)  
   
 
-
 ## <a href="#bios" id="bios">How to reset bios</a>
 
 If you are like me and scr€wed the bios into a unbootable state, you will find out there is no bios reset button or power up sequence that erases it back to default.
@@ -101,4 +101,16 @@ Drivers collected by me in 2023 (size is too big for Github), please retrieve th
 Flashing a new bios, will make windows deactivated after reboot, the "I changed my hardware" option will not work. 
 
 Only solution that worked for me was to reinstall Windows 11!
+
+
+## <a href="#later" id="later">One year later</a>
+
+I must say this mini PC is exactly what i always wanted. I can do video editing, image editing, and AI work on it. 
+
+For casual gaming, it doesn't break a sweat! 
+
+You can play anything on this machine, LOL, Valorant, BattleFront 2 in full settings. You can even play AAA games (bloatware and unoptimized), from CyberPunk 2077, Space Marine 2, GOW. Sure you have to tweak the settings a little for these ones, but you can get constant 60 FPS at 1080p (screen refresh locked) without hitting more then 55~65 ºC on the GPU.
+
+
+
 
