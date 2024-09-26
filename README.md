@@ -9,7 +9,7 @@ This repository was created to gather all information about the Tank 03 Mini PC 
 3. [More pictures](#pics)
 4. [How to reset bios](#bios)
 5. [Drivers / Bios Warning](#drivers)
-6. [One year later](#later)
+6. [One year later (2023/2024)](#later)
 
 ## <a href="#specs" id="specs">Specs</a>
 
