@@ -1,6 +1,6 @@
 ## Tank 03 Mini PC information repository
 
-* ![Tank](/Images/tank.png) 
+![Tank](/Images/tank.png) 
 
 This repository was created to gather all information about the Tank 03 Mini PC sold by Acemagic and Chatreey.
 
